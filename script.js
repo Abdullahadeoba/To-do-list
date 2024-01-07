@@ -12,6 +12,7 @@ function addTodo(){
         let span = document.createElement("span")
         span.innerHTML = "✖";
         li.appendChild(span)
+
     }
     inputBox.value == ""
     saveData();
