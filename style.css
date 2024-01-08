@@ -69,7 +69,7 @@ ul li::before{
     height: 28px;
     width: 28px;
     border-radius: 50%;
-    background-image: url(/image/1656003107_social-media--15.png);
+    background-image: url(/image/unchecked.png);
     background-position: center;
     background-size: cover;
     top: 12px;
@@ -80,7 +80,7 @@ ul li.checked{
     text-decoration: line-through;
 }
 ul li.checked::before{
-    background-image: url(/image/1661456358_social-media--16.png);
+    background-image: url(/image/checked.png);
 }
 ul li span{
     position: absolute;
