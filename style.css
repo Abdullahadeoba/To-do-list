@@ -101,6 +101,6 @@ ul li span:hover{
 @media screen and (max-width:475px) {
     button{
         margin-top: 40px;
-        margin-right: 150px;
+        margin-right: 50px;
     }
 }
