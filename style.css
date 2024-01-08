@@ -18,6 +18,10 @@
     margin: 100px auto 20px;
     padding: 40px 30px 70px;
     border-radius: 10px;
+    border-radius: 50px;
+background: #9374ef;
+box-shadow:  20px 20px 20px #5a5a5a,
+             -10px -10px 10px #ffffff;
 }.todo-app h2{
     display: flex;
     color: #002765;
