@@ -19,9 +19,6 @@
     padding: 40px 30px 70px;
     border-radius: 10px;
     border-radius: 50px;
-background: #9374ef;
-box-shadow:  10px 10px 10px #5a5a5a,
-             -5px -5px 5px #ffffff;
 }.todo-app h2{
     display: flex;
     color: #002765;
